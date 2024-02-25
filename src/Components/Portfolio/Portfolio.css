@@ -1,0 +1,15 @@
+.fa-plus{
+    font-size: 100px;
+}
+
+.hover-layer{
+    background-color: rgba(26, 188, 156,0.8);
+    display: none;
+    z-index: auto;
+    
+}
+
+.position-relative:hover .hover-layer {
+    display: flex;
+  }
+  
